@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "koa": "^2.5.1",
+    "koa-router": "^7.4.0",
     "vue": "^2.5.16"
   },
   "devDependencies": {
